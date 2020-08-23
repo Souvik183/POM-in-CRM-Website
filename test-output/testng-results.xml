@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-24T00:30:52 IST" name="Suite" finished-at="2020-08-24T00:31:26 IST" duration-ms="33943">
+    <groups>
+    </groups>
+    <test started-at="2020-08-24T00:30:52 IST" name="Test" finished-at="2020-08-24T00:31:26 IST" duration-ms="33943">
+      <class name="com.crm.qa.TestCases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.TestCases.HomePageTest@15b204a1]" started-at="2020-08-24T00:31:02 IST" name="setup" finished-at="2020-08-24T00:31:12 IST" duration-ms="9755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="companiesClick()[pri:0, instance:com.crm.qa.TestCases.HomePageTest@15b204a1]" started-at="2020-08-24T00:31:12 IST" name="companiesClick" finished-at="2020-08-24T00:31:14 IST" duration-ms="2081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companiesClick -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.crm.qa.TestCases.HomePageTest@15b204a1]" started-at="2020-08-24T00:31:14 IST" name="teardown" finished-at="2020-08-24T00:31:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.TestCases.HomePageTest@15b204a1]" started-at="2020-08-24T00:31:14 IST" name="setup" finished-at="2020-08-24T00:31:23 IST" duration-ms="9364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="dealsClick()[pri:0, instance:com.crm.qa.TestCases.HomePageTest@15b204a1]" started-at="2020-08-24T00:31:23 IST" name="dealsClick" finished-at="2020-08-24T00:31:26 IST" duration-ms="2197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dealsClick -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.crm.qa.TestCases.HomePageTest@15b204a1]" started-at="2020-08-24T00:31:26 IST" name="teardown" finished-at="2020-08-24T00:31:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.TestCases.HomePageTest -->
+      <class name="com.crm.qa.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.TestCases.LoginPageTest@124c278f]" started-at="2020-08-24T00:30:52 IST" name="setup" finished-at="2020-08-24T00:31:02 IST" duration-ms="9852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.crm.qa.TestCases.LoginPageTest@124c278f]" started-at="2020-08-24T00:31:02 IST" name="test" finished-at="2020-08-24T00:31:02 IST" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.crm.qa.TestCases.LoginPageTest@124c278f]" started-at="2020-08-24T00:31:02 IST" name="teardown" finished-at="2020-08-24T00:31:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.TestCases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
